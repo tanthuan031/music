@@ -4,5 +4,11 @@
     "title": "Bước qua đời nhau",
     "filePath": "audio/Bước qua đời nhau - Lê Bảo Bình.mp3",
     "mediaType": "audio"
+  },
+  {
+    "id": "song2",
+    "title": "Người yêu cũ",
+    "filePath": "audio/Người yêu cũ - Khởi my.mp3",
+    "mediaType": "audio"
   }
 ]
